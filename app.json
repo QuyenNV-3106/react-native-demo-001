@@ -2,7 +2,7 @@
   "expo": {
     "name": "demo-001",
     "slug": "demo-001",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "demo001",
@@ -49,6 +49,12 @@
         "projectId": "602c471b-08c1-4126-a31f-70f792144174"
       }
     },
-    "owner": "band3106"
+    "owner": "band3106",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/602c471b-08c1-4126-a31f-70f792144174"
+    }
   }
 }
